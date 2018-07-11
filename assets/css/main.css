@@ -1,0 +1,9 @@
+.parallax-container {
+    height: 100vh;
+}
+#index-banner {
+    background-image: linear-gradient(#00000077,#00000077);
+}
+.front, .back {
+    overflow: hidden;
+}
